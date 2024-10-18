@@ -1,0 +1,9 @@
+input/*
+output/*
+__pycache__
+test.py
+.DS_Store
+
+!input/.gitkeep
+!output/.gitkeep
+.vscode/
